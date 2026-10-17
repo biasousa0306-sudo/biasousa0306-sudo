@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Beatriz+Sousa!;MSc+student+in+Computational+Biology;Interested+in+bioinformatics" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biasousa036-sudo&color=blue&style=flat-square" />
-</p>
-
 ## 👋 About me
 
 Hi, I'm Beatriz Sousa!
@@ -36,7 +32,6 @@ Hi, I'm Beatriz Sousa!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=biasousa0306-sudo&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biasousa0306-sudo&layout=compact&theme=radical" height="170" />
 </p>
 
 <p align="center">
