@@ -33,33 +33,22 @@ Hi, I'm Beatriz Sousa!
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 </p>
-## 📌 Featured projects
-
-- **[Project 1]**: [what it does in one line]. [View project](https://github.com/biasousa036-sudo/repo-name)
-- **[Project 2]**: [what it does in one line]. [View project](https://github.com/biasousa036-sudo/repo-name)
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biasousa036-sudo&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biasousa036-sudo&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biasousa0306-sudo&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biasousa0306-sudo&layout=compact&theme=radical" height="170" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=biasousa036-sudo&theme=radical" />
 </p>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=biasousa036-sudo&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
 ## 📫 Get in touch
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:biasousa0306@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
