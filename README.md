@@ -40,7 +40,7 @@ Hi, I'm Beatriz Sousa!
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=biasousa036-sudo&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=biasousa0306-sudo&theme=radical" />
 </p>
 
 ## 📫 Get in touch
